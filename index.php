@@ -298,7 +298,7 @@ a:hover{
         </div>
       </div>
       <footer class="container-fluid bg-4 text-center">
-        <p>This was Made By <a href="https://www.linkedin.com/in/tharaka-perera-29a2911a6/" target="_blank"> Ashan Tharaka Perera</a></p>
+        <p>This was Made By <a href="https://www.linkedin.com/in/ashan-tharaka-29a2911a6/" target="_blank"> Ashan Tharaka Perera</a></p>
     </footer>
 </body>
 </html>
